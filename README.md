@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C, HTML, Java and CSS**
 
-- 👯 I’m looking to **colcBeginner projects and learning collaborationsollaborate onlaborate on**
+- 👯 I’m looking to **Beginner projects and learning collaborations**
 
 - 🤝 I’m looking for help with **Improving my programming skills**
 
