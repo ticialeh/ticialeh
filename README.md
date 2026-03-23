@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Improving my programming skills**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at (Coming soon...)
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
+- 📝 I regularly write articles on (Coming soon...)
 
 - 💬 Ask me about **HTML, CSS and basic programming**
 
