@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
-<h3 align="center">🎓 I study Biomedicine and Systems Analysis and Development (ADS) at Cesar School</h3>
+<h3 align="center">🎓 I study Biomedicine at the Federal University of Pernambuco (UFPE) and Systems Analysis and Development (ADS) at Cesar School</h3>
 
 - 🔭 I’m currently working on **Personal projects and programming practice**
 
